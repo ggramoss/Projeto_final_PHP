@@ -1,0 +1,24 @@
+body {
+
+    max-width: 1900px;
+    background: linear-gradient(#f6c9f8, #fb88ff);
+
+}
+nav #adm{
+	 color: rgb(238, 188, 130);
+}
+#box{
+	text-align: center;
+	color: purple;
+	margin:auto 0;
+	border: solid 5px;
+	border-color:purple;
+	width: 80%;
+	margin-left: 10%;
+}
+#tabela{
+	border: 3px solid purple;
+	text-align: center;
+	margin: auto;
+	width: 80%;
+}

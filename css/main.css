@@ -1,0 +1,65 @@
+body {
+    max-width: 1900px;
+    background: linear-gradient(#f6c9f8, #fb88ff);
+}
+
+
+
+
+/*Produtos Destaque*/
+
+h2 {
+    text-align: center;
+    font-size: 25pt;
+    color: purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+
+.produtos {
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.img_produto {
+  /*  height: 400px;*/
+    height: 90%;
+   /* width: 300px; */
+    width: 90%;
+    margin-top: 5%;
+
+}
+
+.produto_img_nome {
+    width: 24%;
+    margin-left: 7%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid purple;
+    border-radius: 7%;
+    background-color: purple;
+    margin-top: 30px;
+}
+
+h3{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13pt;
+    margin-top: 5px;
+}
+
+/*-------------------*/
+
+/*Slider*/
+
+#slider {
+
+    margin: 0 auto;
+    margin-bottom: 50px;
+    width: 80%;  
+    background-color: antiquewhite;
+    
+}
+
+/*-------------------*/

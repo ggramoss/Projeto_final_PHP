@@ -1,0 +1,104 @@
+body {
+    max-width: 1900px;
+    background: linear-gradient(#f6c9f8, #fb88ff);
+}
+
+
+
+
+/*Formulario*/
+
+.formulario {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#titulo {
+    margin-left: 5%;
+    font-size: 20pt;
+    text-align: left;
+}
+
+fieldset div{
+    margin-top: 20px;
+    margin-left: 1%;
+    font-size: 15pt;
+}
+
+.box{
+    width: 200px;
+}
+
+#botao {
+    background-color: #f6c9f8;
+    border-color: #f6c9f8;
+    width: 100px;
+    height: 25px;
+    margin-top: 5px;
+    font-size: 15pt;
+    font-weight: bolder;
+}
+
+fieldset {
+    width: 40%;
+    background-color: violet;
+    float: left;
+    margin-left: 5%;
+    height: 580px;
+    border: 1px solid gray;
+}
+
+label{
+    display: block;
+}
+
+/*-------------------*/
+
+#contatos_e_form{
+    text-align: center;
+   
+   
+    height: 600px;
+    text-align: center;
+}
+
+/*Contato*/
+
+iframe {
+    width: 80%;
+    height: 300px;
+}
+
+#mapa_contato {
+    height: 600px;
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    background-color: violet;
+    border: 1px solid gray;
+}
+
+.contato {
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 5%;
+    margin-top: 6%;
+}
+
+.contato ul {
+    list-style-type: none;
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.contato h2{
+    font-size: 20pt;
+}
+
+#logo_contato {
+    height: 30px;
+    width: 30px;
+    margin-top: 2%;
+}
+
+
+/*-------------------*/
